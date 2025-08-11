@@ -4,11 +4,11 @@ Don't forget to change token, id and secrets in `.env` file
 
 Tokens:
 
-MAIN_TOKEN - main bot entry token
+**MAIN_TOKEN** - main bot entry token
 
-REDDIT_ID - personal use script
+**REDDIT_ID** - personal use script
 
-REDDIT_SECRET - secret. Requiered for `client_secret` in `main.py`
+**REDDIT_SECRET** - secret. Requiered for `client_secret` in `main.py`
 
 ------------
 # Links:
