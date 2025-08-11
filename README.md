@@ -1,6 +1,5 @@
 # RedFire
 
------------
 Don't forget to change token, id and secrets in `.env` file
 
 Tokens:
