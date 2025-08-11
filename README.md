@@ -12,7 +12,7 @@ REDDIT_ID - personal use script
 REDDIT_SECRET - secret. Requiered for `client_secret` in `main.py`
 
 ------------
-Links:
+# Links:
 
 Discord Dev Portal: https://discord.com/developers/applications
 
